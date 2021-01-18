@@ -20,7 +20,7 @@
 #### 快速入门
 * [机器学习算法地图](http://www.tensorinfinity.com/paper_18.html)
 * [机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  && [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)  
-* [CS229 课程讲义中文翻译](https://kivy-cn.github.io/Stanford-CS-229-CN/#/) && [机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf) && [官网（笔记）](http://cs229.stanford.edu/)  && [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)   
+* [CS229 课程讲义中文翻译](https://kivy-cn.github.io/Stanford-CS-229-CN/#/) && [机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf) && [官网（笔记）](http://cs229.stanford.edu/)  && [视频（中文字幕）](http://open.163.com/newview/movie/free?pid=M6SGF6VB4&mid=M6SGHFBMC)   
 * [百页机器学习](http://themlbook.com/wiki/doku.php)
 
 #### 深入理解
@@ -360,6 +360,7 @@
 #### Action
 
 * [PyTorch官方实现ResNet](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py) && [pytorch_resnet_cifar10](https://github.com/akamaster/pytorch_resnet_cifar10)
+* [PyTorch 63.Coding for FLOPs, Params and Latency](https://zhuanlan.zhihu.com/p/268816646)
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
 * [目标检测-20种模型的原味代码汇总](https://zhuanlan.zhihu.com/p/37056927)     
 * [TensorFlow Object Detection API 教程](https://blog.csdn.net/qq_36148847/article/details/79306762)
@@ -832,6 +833,7 @@ ______
 * [朴素贝叶斯分类器 详细解析](https://blog.csdn.net/qq_17073497/article/details/81076250)
 
 #### 决策树(Decision Tree)
+* [最常见核心的决策树算法详细介绍，含ID3、C4.5、CART:star:](https://mp.weixin.qq.com/s/lXaPZyNrgG9LBv-JHdGm9A) && [最常用的决策树算法！Random Forest、Adaboost、GBDT 算法:star:](https://mp.weixin.qq.com/s/Nl_-PdF0nHBq8yGp6AdI-Q) && [终于有人把XGBoost 和 LightGBM 讲明白了，项目中最主流的集成算法！:star:](https://mp.weixin.qq.com/s/LoX987dypDg8jbeTJMpEPQ)
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)
 * [机器学习实战教程（十三）：树回归基础篇之CART算法与树剪枝](http://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html)
@@ -927,7 +929,7 @@ ______
 
 #### 集成(Ensemble)
 
-* [集成学习之bagging,stacking,boosting概念理解](https://zhuanlan.zhihu.com/p/41809927)
+* [集成学习之bagging,stacking,boosting概念理解](https://zhuanlan.zhihu.com/p/41809927) && [Bagging和Boosting的总结](https://www.zhihu.com/follow)
 
 * [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)
 * [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853) && [常用的模型集成方法介绍：bagging、boosting 、stacking](https://zhuanlan.zhihu.com/p/65888174)
